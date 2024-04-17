@@ -84,13 +84,10 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128116143/0690feee-3aad-4654-a479-0fc7ea75004c)
-
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128116143/f81721e4-cd2d-43a3-a584-9fbfe46dc176)
-
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128116143/d0f2d4a0-2269-40bb-a883-78ee08fcd154)
-
-![image](https://github.com/ShakthiSundar-K/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128116143/57c8d94e-ffd4-4588-ae72-70f0ebab6f05)
+![image](https://github.com/UdhayanithiM/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127933352/58d50643-3f9b-44b8-aac8-59d43ac02e81)
+![image](https://github.com/UdhayanithiM/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127933352/15273bc4-d129-4748-b7d5-4d30f890d1d2)
+![image](https://github.com/UdhayanithiM/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127933352/7b580597-a295-4cb2-9aef-f74e6b787e51)
+![image](https://github.com/UdhayanithiM/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/127933352/84d6f667-d74d-48ad-affe-d580a4f5c586)
 
 
 ## Result:
